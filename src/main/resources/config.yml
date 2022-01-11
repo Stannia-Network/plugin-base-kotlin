@@ -1,0 +1,18 @@
+# This is the default configuration file.
+messages:
+  player-join: This is the player join message.
+  player-leave: This is the player leave message.
+
+server-info:
+  name: Example Name
+  website: https://example.com/
+
+config-auto-reload: false
+
+testing1:
+  testing1_1:
+    some_value: With some text
+    another: 99
+  testing1_2:
+    a_value: 0.0
+    is_nice: true
